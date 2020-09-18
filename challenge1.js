@@ -1,0 +1,1 @@
+document.write("Fun fact about Fantastic Beasts - Newt Scamander owns a magical suitcase, enchanted with an Undetectable Extension Charm, that allows him to house entire habitats and a shed for himself in the case while he traveled.")
